@@ -5,7 +5,7 @@ html
   background-image:url(https://pbs.twimg.com/media/DoK6l9_UYAIsnPw.jpg:large);
 }
 
-.special_links:hover
+a:hover
 {
   color:gold;
 }
