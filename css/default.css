@@ -1,3 +1,21 @@
 @charset "UTF-8";
-.body{
+
+html
+{
+  background-image:url(https://pbs.twimg.com/media/DoK6l9_UYAIsnPw.jpg:large);
+}
+
+.special_links:hover
+{
+  font-color:gold;
+}
+
+#red_str
+{
+  font-color:red;
+}
+
+#italic
+{
+  font-style:italic;
 }
