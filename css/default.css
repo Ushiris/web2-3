@@ -3,6 +3,7 @@
 html
 {
   background-image:url(https://pbs.twimg.com/media/DoK6l9_UYAIsnPw.jpg:large);
+  background-repeat:no-repeat;
 }
 
 a:hover
